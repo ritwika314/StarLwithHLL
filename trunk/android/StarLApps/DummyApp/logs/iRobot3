@@ -1,0 +1,64 @@
+nulliRobot3	1472208037283	d	MotionAutomaton : STARTED!
+iRobot3	1472208037283	i	GPSReceiver : Starting GPS receiver
+iRobot3	1472208037358	i	POSITION : iRobot3 4476 646 0 180.0
+iRobot3	1472208037358	d	DSM_Multiple_Attr : Variable not found: NumAdded, owner:*
+iRobot3	1472208037358	d	DSM_Multiple_Attr : Variable not found: CurrentTotal, owner:*
+iRobot3	1472208037358	d	DSM_Multiple_Attr : Variable not found: Changed, owner:*
+iRobot3	1472208037368	d	SmartCommsHandler : Received data message: M|724|iRobot1|ALL|15|Changed`*`-1`1`default`0`|&
+iRobot3	1472208037368	d	SmartCommsHandler : Sending ACK: M|724|iRobot3|iRobot1|0|ACK`|&
+iRobot3	1472208037369	d	SmartCommsHandler : Received data message: M|455|iRobot2|ALL|15|CurrentTotal`*`-1`1`default`0`|&
+iRobot3	1472208037369	d	SmartCommsHandler : Sending ACK: M|455|iRobot3|iRobot2|0|ACK`|&
+iRobot3	1472208037370	d	SmartCommsHandler : Received data message: M|722|iRobot1|ALL|15|NumAdded`*`-1`1`default`0`|&
+iRobot3	1472208037370	d	SmartCommsHandler : Sending ACK: M|722|iRobot3|iRobot1|0|ACK`|&
+iRobot3	1472208037371	d	SmartCommsHandler : Received data message: M|7898|iRobot0|ALL|15|Changed`*`-1`1`default`0`|&
+iRobot3	1472208037371	d	SmartCommsHandler : Sending ACK: M|7898|iRobot3|iRobot0|0|ACK`|&
+iRobot3	1472208037372	d	SmartCommsHandler : Received data message: M|7897|iRobot0|ALL|15|CurrentTotal`*`-1`1`default`0`|&
+iRobot3	1472208037372	d	SmartCommsHandler : Sending ACK: M|7897|iRobot3|iRobot0|0|ACK`|&
+iRobot3	1472208037374	d	SmartCommsHandler : Received data message: M|723|iRobot1|ALL|15|CurrentTotal`*`-1`1`default`0`|&
+iRobot3	1472208037374	d	SmartCommsHandler : Sending ACK: M|723|iRobot3|iRobot1|0|ACK`|&
+iRobot3	1472208037375	d	SmartCommsHandler : Received data message: M|456|iRobot2|ALL|15|Changed`*`-1`1`default`0`|&
+iRobot3	1472208037375	d	SmartCommsHandler : Sending ACK: M|456|iRobot3|iRobot2|0|ACK`|&
+iRobot3	1472208037378	d	SmartCommsHandler : Received data message: M|7896|iRobot0|ALL|15|NumAdded`*`-1`1`default`0`|&
+iRobot3	1472208037378	d	SmartCommsHandler : Sending ACK: M|7896|iRobot3|iRobot0|0|ACK`|&
+iRobot3	1472208037378	d	SmartCommsHandler : Received data message: M|454|iRobot2|ALL|15|NumAdded`*`-1`1`default`0`|&
+iRobot3	1472208037378	d	SmartCommsHandler : Sending ACK: M|454|iRobot3|iRobot2|0|ACK`|&
+iRobot3	1472208037433	i	POSITION : iRobot3 4476 646 0 180.0
+iRobot3	1472208037458	d	GSMutex : Request Sent to party
+iRobot3	1472208037468	d	SmartCommsHandler : Received data message: M|7899|iRobot0|ALL|1000|0`0`0`|&
+iRobot3	1472208037468	d	SmartCommsHandler : Sending ACK: M|7899|iRobot3|iRobot0|0|ACK`|&
+iRobot3	1472208037471	d	SmartCommsHandler : Received data message: M|7900|iRobot0|ALL|15|CurrentTotal`*`1472208037458`1`default`0`|&
+iRobot3	1472208037471	d	SmartCommsHandler : Sending ACK: M|7900|iRobot3|iRobot0|0|ACK`|&
+iRobot3	1472208037472	d	SmartCommsHandler : Received data message: M|7901|iRobot0|ALL|15|NumAdded`*`1472208037458`1`default`1`|&
+iRobot3	1472208037472	d	SmartCommsHandler : Sending ACK: M|7901|iRobot3|iRobot0|0|ACK`|&
+iRobot3	1472208037476	d	SmartCommsHandler : Received data message: M|457|iRobot2|ALL|1000|0`0`0`|&
+iRobot3	1472208037476	d	SmartCommsHandler : Sending ACK: M|457|iRobot3|iRobot2|0|ACK`|&
+iRobot3	1472208037478	d	SmartCommsHandler : Received data message: M|725|iRobot1|ALL|1000|0`0`0`|&
+iRobot3	1472208037478	d	SmartCommsHandler : Sending ACK: M|725|iRobot3|iRobot1|0|ACK`|&
+iRobot3	1472208037492	d	SmartCommsHandler : Received data message: M|7904|iRobot0|iRobot3|2000|0`|&
+iRobot3	1472208037492	d	SmartCommsHandler : Sending ACK: M|7904|iRobot3|iRobot0|0|ACK`|&
+iRobot3	1472208037508	i	POSITION : iRobot3 4476 646 0 180.0
+iRobot3	1472208037570	d	SmartCommsHandler : Received data message: M|734|iRobot1|iRobot3|2000|0`|&
+iRobot3	1472208037570	d	SmartCommsHandler : Sending ACK: M|734|iRobot3|iRobot1|0|ACK`|&
+iRobot3	1472208037572	d	SmartCommsHandler : Received data message: M|733|iRobot1|iRobot3|2000|0`|&
+iRobot3	1472208037572	d	SmartCommsHandler : Sending ACK: M|733|iRobot3|iRobot1|0|ACK`|&
+iRobot3	1472208037577	d	SmartCommsHandler : Received data message: M|727|iRobot1|ALL|15|CurrentTotal`*`1472208037558`1`default`1`|&
+iRobot3	1472208037577	d	SmartCommsHandler : Sending ACK: M|727|iRobot3|iRobot1|0|ACK`|&
+iRobot3	1472208037578	d	SmartCommsHandler : Received data message: M|728|iRobot1|ALL|15|NumAdded`*`1472208037558`1`default`2`|&
+iRobot3	1472208037578	d	SmartCommsHandler : Sending ACK: M|728|iRobot3|iRobot1|0|ACK`|&
+iRobot3	1472208037583	i	POSITION : iRobot3 4476 646 0 180.0
+iRobot3	1472208037658	i	POSITION : iRobot3 4476 646 0 180.0
+iRobot3	1472208037673	d	SmartCommsHandler : Received data message: M|463|iRobot2|iRobot3|2000|0`|&
+iRobot3	1472208037673	d	SmartCommsHandler : Sending ACK: M|463|iRobot3|iRobot2|0|ACK`|&
+iRobot3	1472208037674	d	SmartCommsHandler : Received data message: M|460|iRobot2|ALL|15|CurrentTotal`*`1472208037658`1`default`3`|&
+iRobot3	1472208037674	d	SmartCommsHandler : Sending ACK: M|460|iRobot3|iRobot2|0|ACK`|&
+iRobot3	1472208037676	d	SmartCommsHandler : Received data message: M|461|iRobot2|ALL|15|NumAdded`*`1472208037658`1`default`3`|&
+iRobot3	1472208037676	d	SmartCommsHandler : Sending ACK: M|461|iRobot3|iRobot2|0|ACK`|&
+iRobot3	1472208037677	d	SmartCommsHandler : Received data message: M|462|iRobot2|iRobot3|2000|0`|&
+iRobot3	1472208037677	d	SmartCommsHandler : Sending ACK: M|462|iRobot3|iRobot2|0|ACK`|&
+iRobot3	1472208037733	i	POSITION : iRobot3 4476 646 0 180.0
+iRobot3	1472208037758	d	GSMutex : 0
+iRobot3	1472208037808	i	POSITION : iRobot3 4476 646 0 180.0
+iRobot3	1472208037883	i	POSITION : iRobot3 4476 646 0 180.0
+iRobot3	1472208037958	i	POSITION : iRobot3 4476 646 0 180.0
+iRobot3	1472208038033	i	POSITION : iRobot3 4476 646 0 180.0
+

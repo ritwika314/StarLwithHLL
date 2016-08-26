@@ -1,0 +1,20 @@
+INDEX VERSION 1.129+/home/mim/parser/test/StarL1.5/trunk/android/StarLApps/.metadata/.plugins/org.eclipse.jdt.core
+2234693247.index
+288617407.index
+4003360355.index
+197302412.index
+4074388573.index
+2143003410.index
+3573770966.index
+1429628185.index
+318273463.index
+1700513044.index
+3432874426.index
+2076627510.index
+864622417.index
+693601925.index
+7441654.index
+3410048400.index
+1396395480.index
+1039933156.index
+2291183957.index

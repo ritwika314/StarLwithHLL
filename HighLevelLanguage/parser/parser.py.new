@@ -1,0 +1,60 @@
+import ply.yacc as yacc 
+
+from scanner import *
+from symtab import * 
+
+
+
+global symtab 
+symtab = []
+
+
+def p_pgm(p):
+	'''pgm : agentDecl declblock init events'''
+	p[0] = pgmAst(p[1],p[2],p[3],p[4])
+
+
+def p_declblock(p):
+	ck : mwblock swblock decls'''
+	p[0] = declBAst(p[1],p[2],p[3])
+
+
+def p_mwblock(p):
+	'''mwblock : MW LCURLY decls RCURLY'''
+	p[0] = mwAst(p[3])
+
+
+def p_swblock(p):
+	'''mwblock : SW LCURLY decls RCURLY'''
+	p[0] = swAst(p[3])
+
+
+def p_decls(p):
+	'''decls : decl decls
+		 | empty
+
+	 '''
+	dlist = []
+	if len(p) is 3:
+		p[0] = dlist
+	else:
+		 p[0] = []
+
+
+def p_empty(p):
+	'empty :'
+	pass
+
+
+def p_decl(p):
+	'''decl : type varname SEMI 
+		| type varname EQLS val SEMI
+
+	'''
+	if len(p) is 4 :
+		p[0] = declAst(p[1],p[2])
+	else:
+		p[0] = declAst(p[1],p[2],p[4])
+
+	global symtab
+	symtab.append(p[0])

@@ -1,0 +1,85 @@
+Agent::Maze
+
+
+MW{
+	Map destinations;
+}
+
+ObstacleList obs;
+ObstacleList obEnvironment;
+enum Stage {PICK, GO , DONE, ELECT, HOLD, MIDWAY} stage = Stage.PICK;
+ItemPosition Target;
+ItemPosition currentDestination;
+
+
+Init() {
+	getRobotIndex();
+	updateObs();		
+
+	elect() {
+		pre(stage == Stage.ELECT);
+		eff{
+
+			stage = Stage.PICK;
+		}
+
+	} 	
+	to_pick() {
+		pre(stage == Stage.PICK);
+		eff{
+			destinations = getInput();
+			if(isEmpty(destinations)){
+				stage = Stage.DONE;
+			}
+
+			else{
+				currentDestination = getRandomElement(destinations);
+							
+			
+			}
+		
+		}
+	}
+
+	midway_to_pick(){
+		pre(stage = Stage.MIDWAY);
+		
+		if(not(inmotion) 
+
+	}	
+	
+	go_to_pick() {
+		pre(stage == Stage.GO);
+		eff{
+			if(not(inmotion())) {
+				if(currentDestination != null) 
+					remove(destinations,currentDestion);
+				}
+					
+				else{}
+				update(currentDestination)
+				stage = Stage.PICK;					
+			}
+			else{}		 		
+		}
+		
+	}
+
+	holding() {
+		pre(stage == Stage.HOLD);
+		eff{
+			stopmotion();
+			stage = Stage.PICK;
+		}
+
+	}
+
+	exit() {
+		pre(stage == Stage.DONE);
+		eff{
+			stopmotion();
+			return(null);
+		}
+
+	}
+}

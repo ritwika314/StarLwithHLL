@@ -1,0 +1,18 @@
+declint , NumAdded , 0 , global
+declint , CurrentTotal , 0 , global
+declint , Changed , 0 , global
+declboolean , isFinal , false , local
+declboolean , Added , false , local
+declint , FinalSum , 0 , local
+declStage , stage , Stage.PICK , local
+declItemPosition , Target , None , local
+declItemPosition , currentDestination , None , local
+declObstacleList , obs , None , local
+symentryrobotIndex : int local
+symentry['Added', 'CurrentTotal', 'NumAdded'] : atomic local
+symentrywait0 : boolean local
+symentrymutex : MutualExclusion local
+symentryNumbots : int local
+
+update:True
+ramode:True

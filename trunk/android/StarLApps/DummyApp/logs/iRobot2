@@ -1,0 +1,463 @@
+nulliRobot2	1472209320874	d	MotionAutomaton : STARTED!
+iRobot2	1472209320874	i	GPSReceiver : Starting GPS receiver
+iRobot2	1472209320949	d	DSM_Multiple_Attr : Variable not found: NumAdded, owner:*
+iRobot2	1472209320949	i	POSITION : iRobot2 286 1573 0 2.0
+iRobot2	1472209320949	d	DSM_Multiple_Attr : Variable not found: CurrentTotal, owner:*
+iRobot2	1472209320949	d	DSM_Multiple_Attr : Variable not found: Changed, owner:*
+iRobot2	1472209320959	d	SmartCommsHandler : Received data message: M|7175|quadcopter1|ALL|15|Changed`*`-1`1`default`0`|&
+iRobot2	1472209320959	d	SmartCommsHandler : Sending ACK: M|7175|iRobot2|quadcopter1|0|ACK`|&
+iRobot2	1472209320959	d	SmartCommsHandler : Received data message: M|7174|quadcopter1|ALL|15|CurrentTotal`*`-1`1`default`0`|&
+iRobot2	1472209320959	d	SmartCommsHandler : Sending ACK: M|7174|iRobot2|quadcopter1|0|ACK`|&
+iRobot2	1472209320961	d	SmartCommsHandler : Received data message: M|2548|quadcopter0|ALL|15|CurrentTotal`*`-1`1`default`0`|&
+iRobot2	1472209320961	d	SmartCommsHandler : Sending ACK: M|2548|iRobot2|quadcopter0|0|ACK`|&
+iRobot2	1472209320961	d	SmartCommsHandler : Received data message: M|3539|iRobot0|ALL|15|NumAdded`*`-1`1`default`0`|&
+iRobot2	1472209320961	d	SmartCommsHandler : Sending ACK: M|3539|iRobot2|iRobot0|0|ACK`|&
+iRobot2	1472209320961	d	SmartCommsHandler : Received data message: M|6083|iRobot1|ALL|15|Changed`*`-1`1`default`0`|&
+iRobot2	1472209320961	d	SmartCommsHandler : Sending ACK: M|6083|iRobot2|iRobot1|0|ACK`|&
+iRobot2	1472209320963	d	SmartCommsHandler : Received data message: M|6081|iRobot1|ALL|15|NumAdded`*`-1`1`default`0`|&
+iRobot2	1472209320963	d	SmartCommsHandler : Sending ACK: M|6081|iRobot2|iRobot1|0|ACK`|&
+iRobot2	1472209320964	d	SmartCommsHandler : Received data message: M|2547|quadcopter0|ALL|15|NumAdded`*`-1`1`default`0`|&
+iRobot2	1472209320964	d	SmartCommsHandler : Sending ACK: M|2547|iRobot2|quadcopter0|0|ACK`|&
+iRobot2	1472209320965	d	SmartCommsHandler : Received data message: M|3540|iRobot0|ALL|15|CurrentTotal`*`-1`1`default`0`|&
+iRobot2	1472209320965	d	SmartCommsHandler : Sending ACK: M|3540|iRobot2|iRobot0|0|ACK`|&
+iRobot2	1472209320965	d	SmartCommsHandler : Received data message: M|7173|quadcopter1|ALL|15|NumAdded`*`-1`1`default`0`|&
+iRobot2	1472209320965	d	SmartCommsHandler : Sending ACK: M|7173|iRobot2|quadcopter1|0|ACK`|&
+iRobot2	1472209320966	d	SmartCommsHandler : Received data message: M|2549|quadcopter0|ALL|15|Changed`*`-1`1`default`0`|&
+iRobot2	1472209320966	d	SmartCommsHandler : Sending ACK: M|2549|iRobot2|quadcopter0|0|ACK`|&
+iRobot2	1472209320969	d	SmartCommsHandler : Received data message: M|3541|iRobot0|ALL|15|Changed`*`-1`1`default`0`|&
+iRobot2	1472209320969	d	SmartCommsHandler : Sending ACK: M|3541|iRobot2|iRobot0|0|ACK`|&
+iRobot2	1472209320969	d	SmartCommsHandler : Received data message: M|6082|iRobot1|ALL|15|CurrentTotal`*`-1`1`default`0`|&
+iRobot2	1472209320969	d	SmartCommsHandler : Sending ACK: M|6082|iRobot2|iRobot1|0|ACK`|&
+iRobot2	1472209321024	i	POSITION : iRobot2 289 1573 0 2.0
+iRobot2	1472209321049	d	GSMutex : Request Sent to party
+iRobot2	1472209321060	d	SmartCommsHandler : Received data message: M|3544|iRobot0|ALL|15|CurrentTotal`*`1472209321049`1`default`0`|&
+iRobot2	1472209321060	d	SmartCommsHandler : Sending ACK: M|3544|iRobot2|iRobot0|0|ACK`|&
+iRobot2	1472209321060	d	SmartCommsHandler : Received data message: M|6085|iRobot1|ALL|1000|0`0`0`|&
+iRobot2	1472209321060	d	SmartCommsHandler : Sending ACK: M|6085|iRobot2|iRobot1|0|ACK`|&
+iRobot2	1472209321060	d	SmartCommsHandler : Received data message: M|6084|iRobot1|ALL|15|Changed`*`1472209321049`1`default`1`|&
+iRobot2	1472209321060	d	SmartCommsHandler : Sending ACK: M|6084|iRobot2|iRobot1|0|ACK`|&
+iRobot2	1472209321061	d	SmartCommsHandler : Received data message: M|7176|quadcopter1|ALL|15|Changed`*`1472209321049`1`default`1`|&
+iRobot2	1472209321061	d	SmartCommsHandler : Sending ACK: M|7176|iRobot2|quadcopter1|0|ACK`|&
+iRobot2	1472209321062	d	SmartCommsHandler : Received data message: M|3545|iRobot0|ALL|15|NumAdded`*`1472209321049`1`default`1`|&
+iRobot2	1472209321062	d	SmartCommsHandler : Sending ACK: M|3545|iRobot2|iRobot0|0|ACK`|&
+iRobot2	1472209321064	d	SmartCommsHandler : Received data message: M|3542|iRobot0|ALL|15|Changed`*`1472209321049`1`default`1`|&
+iRobot2	1472209321064	d	SmartCommsHandler : Sending ACK: M|3542|iRobot2|iRobot0|0|ACK`|&
+iRobot2	1472209321064	d	SmartCommsHandler : Received data message: M|3543|iRobot0|ALL|1000|0`0`0`|&
+iRobot2	1472209321064	d	SmartCommsHandler : Sending ACK: M|3543|iRobot2|iRobot0|0|ACK`|&
+iRobot2	1472209321066	d	SmartCommsHandler : Received data message: M|2551|quadcopter0|ALL|1000|0`0`0`|&
+iRobot2	1472209321066	d	SmartCommsHandler : Sending ACK: M|2551|iRobot2|quadcopter0|0|ACK`|&
+iRobot2	1472209321066	d	SmartCommsHandler : Received data message: M|2550|quadcopter0|ALL|15|Changed`*`1472209321049`1`default`1`|&
+iRobot2	1472209321066	d	SmartCommsHandler : Sending ACK: M|2550|iRobot2|quadcopter0|0|ACK`|&
+iRobot2	1472209321068	d	SmartCommsHandler : Received data message: M|7177|quadcopter1|ALL|1000|0`0`0`|&
+iRobot2	1472209321068	d	SmartCommsHandler : Sending ACK: M|7177|iRobot2|quadcopter1|0|ACK`|&
+iRobot2	1472209321073	d	SmartCommsHandler : Received data message: M|2552|quadcopter0|iRobot2|2000|0`|&
+iRobot2	1472209321073	d	SmartCommsHandler : Sending ACK: M|2552|iRobot2|quadcopter0|0|ACK`|&
+iRobot2	1472209321077	d	SmartCommsHandler : Received data message: M|7178|quadcopter1|iRobot2|2000|0`|&
+iRobot2	1472209321077	d	SmartCommsHandler : Sending ACK: M|7178|iRobot2|quadcopter1|0|ACK`|&
+iRobot2	1472209321082	d	SmartCommsHandler : Received data message: M|3549|iRobot0|iRobot2|2000|0`|&
+iRobot2	1472209321082	d	SmartCommsHandler : Sending ACK: M|3549|iRobot2|iRobot0|0|ACK`|&
+iRobot2	1472209321099	i	POSITION : iRobot2 292 1570 0 2.0
+iRobot2	1472209321160	d	SmartCommsHandler : Received data message: M|7182|quadcopter1|ALL|15|Changed`*`1472209321149`1`default`2`|&
+iRobot2	1472209321160	d	SmartCommsHandler : Sending ACK: M|7182|iRobot2|quadcopter1|0|ACK`|&
+iRobot2	1472209321160	d	SmartCommsHandler : Received data message: M|6087|iRobot1|ALL|15|Changed`*`1472209321149`1`default`2`|&
+iRobot2	1472209321160	d	SmartCommsHandler : Sending ACK: M|6087|iRobot2|iRobot1|0|ACK`|&
+iRobot2	1472209321160	d	SmartCommsHandler : Received data message: M|2555|quadcopter0|ALL|15|Changed`*`1472209321149`1`default`2`|&
+iRobot2	1472209321160	d	SmartCommsHandler : Sending ACK: M|2555|iRobot2|quadcopter0|0|ACK`|&
+iRobot2	1472209321161	d	SmartCommsHandler : Received data message: M|6089|iRobot1|ALL|15|NumAdded`*`1472209321149`1`default`2`|&
+iRobot2	1472209321161	d	SmartCommsHandler : Sending ACK: M|6089|iRobot2|iRobot1|0|ACK`|&
+iRobot2	1472209321164	d	SmartCommsHandler : Received data message: M|6088|iRobot1|ALL|15|CurrentTotal`*`1472209321149`1`default`1`|&
+iRobot2	1472209321164	d	SmartCommsHandler : Sending ACK: M|6088|iRobot2|iRobot1|0|ACK`|&
+iRobot2	1472209321166	d	SmartCommsHandler : Received data message: M|6095|iRobot1|iRobot2|2000|0`|&
+iRobot2	1472209321166	d	SmartCommsHandler : Sending ACK: M|6095|iRobot2|iRobot1|0|ACK`|&
+iRobot2	1472209321168	d	SmartCommsHandler : Received data message: M|6094|iRobot1|iRobot2|2000|0`|&
+iRobot2	1472209321168	d	SmartCommsHandler : Sending ACK: M|6094|iRobot2|iRobot1|0|ACK`|&
+iRobot2	1472209321174	i	POSITION : iRobot2 293 1572 0 2.0
+iRobot2	1472209321249	i	POSITION : iRobot2 290 1569 0 2.0
+iRobot2	1472209321249	d	GSMutex : 0
+iRobot2	1472209321261	d	SmartCommsHandler : Received data message: M|7183|quadcopter1|ALL|15|Changed`*`1472209321249`1`default`3`|&
+iRobot2	1472209321261	d	SmartCommsHandler : Sending ACK: M|7183|iRobot2|quadcopter1|0|ACK`|&
+iRobot2	1472209321265	d	SmartCommsHandler : Received data message: M|2556|quadcopter0|ALL|15|Changed`*`1472209321249`1`default`3`|&
+iRobot2	1472209321265	d	SmartCommsHandler : Sending ACK: M|2556|iRobot2|quadcopter0|0|ACK`|&
+iRobot2	1472209321324	i	POSITION : iRobot2 287 1572 0 2.0
+iRobot2	1472209321349	d	ReachAvoid : STARTED!
+iRobot2	1472209321349	i	DoReachAvoid : 294 258
+iRobot2	1472209321359	d	SmartCommsHandler : Received data message: M|2557|quadcopter0|ALL|15|Changed`*`1472209321349`1`default`4`|&
+iRobot2	1472209321359	d	SmartCommsHandler : Sending ACK: M|2557|iRobot2|quadcopter0|0|ACK`|&
+iRobot2	1472209321360	d	SmartCommsHandler : Received data message: M|2563|quadcopter0|iRobot2|2000|0`|&
+iRobot2	1472209321360	d	SmartCommsHandler : Sending ACK: M|2563|iRobot2|quadcopter0|0|ACK`|&
+iRobot2	1472209321360	d	SmartCommsHandler : Received data message: M|2559|quadcopter0|ALL|15|NumAdded`*`1472209321349`1`default`4`|&
+iRobot2	1472209321360	d	SmartCommsHandler : Sending ACK: M|2559|iRobot2|quadcopter0|0|ACK`|&
+iRobot2	1472209321361	d	SmartCommsHandler : Received data message: M|2558|quadcopter0|ALL|15|CurrentTotal`*`1472209321349`1`default`3`|&
+iRobot2	1472209321361	d	SmartCommsHandler : Sending ACK: M|2558|iRobot2|quadcopter0|0|ACK`|&
+iRobot2	1472209321364	d	SmartCommsHandler : Received data message: M|7184|quadcopter1|ALL|15|Changed`*`1472209321349`1`default`4`|&
+iRobot2	1472209321364	d	SmartCommsHandler : Sending ACK: M|7184|iRobot2|quadcopter1|0|ACK`|&
+iRobot2	1472209321368	d	SmartCommsHandler : Received data message: M|2562|quadcopter0|iRobot2|2000|0`|&
+iRobot2	1472209321368	d	SmartCommsHandler : Sending ACK: M|2562|iRobot2|quadcopter0|0|ACK`|&
+iRobot2	1472209321399	i	POSITION : iRobot2 289 1572 0 2.0
+iRobot2	1472209321449	i	ReachAvoid : RRT has found a solution
+iRobot2	1472209321459	d	SmartCommsHandler : Received data message: M|7188|quadcopter1|iRobot2|2000|0`|&
+iRobot2	1472209321459	d	SmartCommsHandler : Sending ACK: M|7188|iRobot2|quadcopter1|0|ACK`|&
+iRobot2	1472209321459	d	SmartCommsHandler : Received data message: M|7185|quadcopter1|ALL|15|Changed`*`1472209321449`1`default`5`|&
+iRobot2	1472209321459	d	SmartCommsHandler : Sending ACK: M|7185|iRobot2|quadcopter1|0|ACK`|&
+iRobot2	1472209321462	d	SmartCommsHandler : Received data message: M|7189|quadcopter1|iRobot2|2000|0`|&
+iRobot2	1472209321462	d	SmartCommsHandler : Sending ACK: M|7189|iRobot2|quadcopter1|0|ACK`|&
+iRobot2	1472209321466	d	SmartCommsHandler : Received data message: M|7187|quadcopter1|ALL|15|NumAdded`*`1472209321449`1`default`5`|&
+iRobot2	1472209321466	d	SmartCommsHandler : Sending ACK: M|7187|iRobot2|quadcopter1|0|ACK`|&
+iRobot2	1472209321467	d	SmartCommsHandler : Received data message: M|7186|quadcopter1|ALL|15|CurrentTotal`*`1472209321449`1`default`4`|&
+iRobot2	1472209321467	d	SmartCommsHandler : Sending ACK: M|7186|iRobot2|quadcopter1|0|ACK`|&
+iRobot2	1472209321474	i	POSITION : iRobot2 291 1575 0 2.0
+iRobot2	1472209321549	i	POSITION : iRobot2 289 1574 0 2.0
+iRobot2	1472209321549	i	ReachAvoid :  go to called to: midpoint: 289, 1572, 0. index 0
+iRobot2	1472209321609	e	MotionAutomaton : Stage is: INIT
+iRobot2	1472209321609	i	MotionAutomaton : Stage transition to TURN
+iRobot2	1472209321624	i	POSITION : iRobot2 287 1577 0 2.0
+iRobot2	1472209321669	e	MotionAutomaton : Stage is: TURN
+iRobot2	1472209321669	i	MotionAutomaton : Stage transition to GOAL
+iRobot2	1472209321699	i	POSITION : iRobot2 285 1580 0 -1.75
+iRobot2	1472209321729	e	MotionAutomaton : Stage is: GOAL
+iRobot2	1472209321729	i	MotionAutomaton : At goal, done flag set!
+iRobot2	1472209321729	i	MotionAutomaton : Straight at velocity 0
+iRobot2	1472209321729	i	MotionAutomaton : Stage transition to GOAL
+iRobot2	1472209321774	i	POSITION : iRobot2 286 1582 0 -1.75
+iRobot2	1472209321849	i	POSITION : iRobot2 289 1585 0 -1.75
+iRobot2	1472209321849	i	ReachAvoid :  go to called to: midpoint: 215, 1515, 0. index 0
+iRobot2	1472209321909	e	MotionAutomaton : Stage is: INIT
+iRobot2	1472209321909	i	MotionAutomaton : Stage transition to TURN
+iRobot2	1472209321924	i	POSITION : iRobot2 290 1588 0 -1.75
+iRobot2	1472209321969	e	MotionAutomaton : Stage is: TURN
+iRobot2	1472209321999	i	POSITION : iRobot2 287 1585 0 -5.5
+iRobot2	1472209322074	i	POSITION : iRobot2 287 1586 0 -9.25
+iRobot2	1472209322149	i	POSITION : iRobot2 284 1587 0 -13.0
+iRobot2	1472209322224	i	POSITION : iRobot2 282 1590 0 -16.75
+iRobot2	1472209322299	i	POSITION : iRobot2 281 1591 0 -20.5
+iRobot2	1472209322374	i	POSITION : iRobot2 280 1591 0 -24.25
+iRobot2	1472209322449	i	POSITION : iRobot2 283 1591 0 -28.0
+iRobot2	1472209322524	i	POSITION : iRobot2 280 1590 0 -31.75
+iRobot2	1472209322599	i	POSITION : iRobot2 280 1587 0 -35.5
+iRobot2	1472209322674	i	POSITION : iRobot2 280 1586 0 -39.25
+iRobot2	1472209322749	i	POSITION : iRobot2 277 1584 0 -43.0
+iRobot2	1472209322824	i	POSITION : iRobot2 274 1582 0 -46.75
+iRobot2	1472209322899	i	POSITION : iRobot2 275 1580 0 -50.5
+iRobot2	1472209322974	i	POSITION : iRobot2 275 1580 0 -54.25
+iRobot2	1472209323049	i	POSITION : iRobot2 275 1582 0 -58.0
+iRobot2	1472209323124	i	POSITION : iRobot2 276 1584 0 -61.75
+iRobot2	1472209323199	i	POSITION : iRobot2 274 1584 0 -65.5
+iRobot2	1472209323274	i	POSITION : iRobot2 276 1583 0 -69.25
+iRobot2	1472209323349	i	POSITION : iRobot2 275 1584 0 -73.0
+iRobot2	1472209323424	i	POSITION : iRobot2 278 1587 0 -76.75
+iRobot2	1472209323499	i	POSITION : iRobot2 278 1590 0 -80.5
+iRobot2	1472209323574	i	POSITION : iRobot2 281 1593 0 -84.25
+iRobot2	1472209323649	i	POSITION : iRobot2 281 1590 0 -88.0
+iRobot2	1472209323724	i	POSITION : iRobot2 281 1592 0 -91.75
+iRobot2	1472209323799	i	POSITION : iRobot2 284 1590 0 -95.5
+iRobot2	1472209323874	i	POSITION : iRobot2 282 1588 0 -99.25
+iRobot2	1472209323949	i	POSITION : iRobot2 280 1588 0 -103.0
+iRobot2	1472209324024	i	POSITION : iRobot2 282 1590 0 -106.75
+iRobot2	1472209324099	i	POSITION : iRobot2 279 1591 0 -110.2
+iRobot2	1472209324174	i	POSITION : iRobot2 276 1592 0 -113.275
+iRobot2	1472209324249	i	POSITION : iRobot2 278 1595 0 -115.97500000000001
+iRobot2	1472209324324	i	POSITION : iRobot2 280 1597 0 -118.525
+iRobot2	1472209324399	i	POSITION : iRobot2 280 1597 0 -120.85000000000001
+iRobot2	1472209324474	i	POSITION : iRobot2 280 1597 0 -123.025
+iRobot2	1472209324549	i	POSITION : iRobot2 282 1595 0 -124.97500000000001
+iRobot2	1472209324624	i	POSITION : iRobot2 285 1595 0 -126.92500000000001
+iRobot2	1472209324699	i	POSITION : iRobot2 287 1595 0 -128.875
+iRobot2	1472209324729	i	MotionAutomaton : Turn stage: within angle bounds!
+iRobot2	1472209324729	i	MotionAutomaton : Stage transition to STRAIGHT
+iRobot2	1472209324774	i	POSITION : iRobot2 288 1593 0 -130.825
+iRobot2	1472209324789	e	MotionAutomaton : Stage is: STRAIGHT
+iRobot2	1472209324789	i	MotionAutomaton : Straight at velocity 178
+iRobot2	1472209324849	i	MotionAutomaton : Straight at velocity 178
+iRobot2	1472209324849	i	POSITION : iRobot2 282 1584 0 -130.825
+iRobot2	1472209324909	i	MotionAutomaton : Straight at velocity 177
+iRobot2	1472209324909	i	MotionAutomaton : Stage transition to SMALLTURN
+iRobot2	1472209324924	i	POSITION : iRobot2 271 1572 0 -130.825
+iRobot2	1472209324969	e	MotionAutomaton : Stage is: SMALLTURN
+iRobot2	1472209324999	i	POSITION : iRobot2 266 1565 0 -133.75
+iRobot2	1472209325029	i	MotionAutomaton : Stage transition to STRAIGHT
+iRobot2	1472209325074	i	POSITION : iRobot2 255 1558 0 -136.675
+iRobot2	1472209325089	e	MotionAutomaton : Stage is: STRAIGHT
+iRobot2	1472209325089	i	MotionAutomaton : Straight at velocity 175
+iRobot2	1472209325089	i	MotionAutomaton : Stage transition to GOAL
+iRobot2	1472209325149	e	MotionAutomaton : Stage is: GOAL
+iRobot2	1472209325149	i	MotionAutomaton : At goal, done flag set!
+iRobot2	1472209325149	i	MotionAutomaton : Straight at velocity 0
+iRobot2	1472209325149	i	MotionAutomaton : Stage transition to GOAL
+iRobot2	1472209325149	i	POSITION : iRobot2 253 1558 0 -136.675
+iRobot2	1472209325224	i	POSITION : iRobot2 256 1559 0 -136.675
+iRobot2	1472209325249	i	ReachAvoid :  go to called to: midpoint: 130, 1417, 0. index 0
+iRobot2	1472209325269	e	MotionAutomaton : Stage is: INIT
+iRobot2	1472209325269	i	MotionAutomaton : Stage transition to ARCING
+iRobot2	1472209325299	i	POSITION : iRobot2 258 1557 0 -136.675
+iRobot2	1472209325329	e	MotionAutomaton : Stage is: ARCING
+iRobot2	1472209325374	i	POSITION : iRobot2 251 1546 0 -136.07500000000002
+iRobot2	1472209325389	i	MotionAutomaton : Stage transition to STRAIGHT
+iRobot2	1472209325449	e	MotionAutomaton : Stage is: STRAIGHT
+iRobot2	1472209325449	i	POSITION : iRobot2 239 1539 0 -135.47500000000002
+iRobot2	1472209325509	i	MotionAutomaton : Straight at velocity 185
+iRobot2	1472209325509	i	MotionAutomaton : Stage transition to SMALLTURN
+iRobot2	1472209325524	i	POSITION : iRobot2 228 1531 0 -135.47500000000002
+iRobot2	1472209325569	d	SmartCommsHandler : Received data message: M|2568|quadcopter0|ALL|22|A`|&
+iRobot2	1472209325569	d	SmartCommsHandler : Sending ACK: M|2568|iRobot2|quadcopter0|0|ACK`|&
+iRobot2	1472209325599	i	POSITION : iRobot2 216 1522 0 -135.47500000000002
+iRobot2	1472209325649	i	DoReachAvoid : 650 2430
+iRobot2	1472209325674	i	POSITION : iRobot2 205 1513 0 -135.47500000000002
+iRobot2	1472209325749	i	POSITION : iRobot2 192 1507 0 -135.47500000000002
+iRobot2	1472209325749	i	ReachAvoid : RRT has found a solution
+iRobot2	1472209325824	i	POSITION : iRobot2 181 1499 0 -135.47500000000002
+iRobot2	1472209325849	i	ReachAvoid :  go to called to: midpoint: 192, 1507, 0. index 0
+iRobot2	1472209325869	e	MotionAutomaton : Stage is: INIT
+iRobot2	1472209325869	i	MotionAutomaton : Stage transition to TURN
+iRobot2	1472209325899	i	POSITION : iRobot2 174 1493 0 -135.47500000000002
+iRobot2	1472209325929	e	MotionAutomaton : Stage is: TURN
+iRobot2	1472209325929	i	MotionAutomaton : Stage transition to GOAL
+iRobot2	1472209325974	i	POSITION : iRobot2 174 1493 0 -131.72500000000002
+iRobot2	1472209325989	e	MotionAutomaton : Stage is: GOAL
+iRobot2	1472209325989	i	MotionAutomaton : At goal, done flag set!
+iRobot2	1472209325989	i	MotionAutomaton : Straight at velocity 0
+iRobot2	1472209325989	i	MotionAutomaton : Stage transition to GOAL
+iRobot2	1472209326049	i	POSITION : iRobot2 176 1493 0 -131.72500000000002
+iRobot2	1472209326124	i	POSITION : iRobot2 175 1492 0 -131.72500000000002
+iRobot2	1472209326149	i	ReachAvoid :  go to called to: midpoint: 650, 2430, 0. index 0
+iRobot2	1472209326169	e	MotionAutomaton : Stage is: INIT
+iRobot2	1472209326169	i	MotionAutomaton : Stage transition to TURN
+iRobot2	1472209326199	i	POSITION : iRobot2 177 1490 0 -131.72500000000002
+iRobot2	1472209326229	e	MotionAutomaton : Stage is: TURN
+iRobot2	1472209326274	i	POSITION : iRobot2 175 1487 0 -135.47500000000002
+iRobot2	1472209326349	i	POSITION : iRobot2 173 1490 0 -139.22500000000002
+iRobot2	1472209326424	i	POSITION : iRobot2 171 1490 0 -142.97500000000002
+iRobot2	1472209326499	i	POSITION : iRobot2 169 1493 0 -146.72500000000002
+iRobot2	1472209326574	i	POSITION : iRobot2 169 1495 0 -150.47500000000002
+iRobot2	1472209326649	i	POSITION : iRobot2 169 1495 0 -154.22500000000002
+iRobot2	1472209326724	i	POSITION : iRobot2 168 1496 0 -157.97500000000002
+iRobot2	1472209326799	i	POSITION : iRobot2 167 1496 0 -161.72500000000002
+iRobot2	1472209326874	i	POSITION : iRobot2 164 1497 0 -165.47500000000002
+iRobot2	1472209326949	i	POSITION : iRobot2 167 1497 0 -169.22500000000002
+iRobot2	1472209327024	i	POSITION : iRobot2 165 1498 0 -172.97500000000002
+iRobot2	1472209327099	i	POSITION : iRobot2 165 1500 0 -176.72500000000002
+iRobot2	1472209327174	i	POSITION : iRobot2 162 1498 0 -180.47500000000002
+iRobot2	1472209327249	i	POSITION : iRobot2 162 1500 0 -184.22500000000002
+iRobot2	1472209327324	i	POSITION : iRobot2 160 1498 0 -187.97500000000002
+iRobot2	1472209327399	i	POSITION : iRobot2 160 1495 0 -191.72500000000002
+iRobot2	1472209327474	i	POSITION : iRobot2 159 1492 0 -195.47500000000002
+iRobot2	1472209327549	i	POSITION : iRobot2 158 1494 0 -199.22500000000002
+iRobot2	1472209327624	i	POSITION : iRobot2 155 1493 0 -202.97500000000002
+iRobot2	1472209327699	i	POSITION : iRobot2 156 1495 0 -206.72500000000002
+iRobot2	1472209327774	i	POSITION : iRobot2 155 1495 0 -210.47500000000002
+iRobot2	1472209327849	i	POSITION : iRobot2 153 1492 0 -214.22500000000002
+iRobot2	1472209327924	i	POSITION : iRobot2 153 1489 0 -217.97500000000002
+iRobot2	1472209327999	i	POSITION : iRobot2 155 1486 0 -221.72500000000002
+iRobot2	1472209328074	i	POSITION : iRobot2 158 1486 0 -225.47500000000002
+iRobot2	1472209328149	i	POSITION : iRobot2 158 1484 0 -229.22500000000002
+iRobot2	1472209328224	i	POSITION : iRobot2 155 1484 0 -232.97500000000002
+iRobot2	1472209328299	i	POSITION : iRobot2 155 1486 0 -236.72500000000002
+iRobot2	1472209328374	i	POSITION : iRobot2 156 1484 0 -240.47500000000002
+iRobot2	1472209328449	i	POSITION : iRobot2 158 1487 0 -244.22500000000002
+iRobot2	1472209328524	i	POSITION : iRobot2 157 1488 0 -247.97500000000002
+iRobot2	1472209328599	i	POSITION : iRobot2 156 1489 0 -251.72500000000002
+iRobot2	1472209328674	i	POSITION : iRobot2 153 1487 0 -255.47500000000002
+iRobot2	1472209328749	i	POSITION : iRobot2 154 1487 0 -259.225
+iRobot2	1472209328824	i	POSITION : iRobot2 154 1488 0 -262.975
+iRobot2	1472209328899	i	POSITION : iRobot2 152 1485 0 -266.725
+iRobot2	1472209328964	d	SmartCommsHandler : Received data message: M|7196|quadcopter1|ALL|22|B`|&
+iRobot2	1472209328964	d	SmartCommsHandler : Sending ACK: M|7196|iRobot2|quadcopter1|0|ACK`|&
+iRobot2	1472209328974	i	POSITION : iRobot2 152 1485 0 -270.475
+iRobot2	1472209329049	i	POSITION : iRobot2 151 1484 0 -274.225
+iRobot2	1472209329049	i	DoReachAvoid : 3517 2534
+iRobot2	1472209329049	i	ReachAvoid : RRT has found a solution
+iRobot2	1472209329124	i	POSITION : iRobot2 152 1484 0 -277.975
+iRobot2	1472209329149	i	ReachAvoid :  go to called to: midpoint: 151, 1484, 0. index 0
+iRobot2	1472209329169	e	MotionAutomaton : Stage is: INIT
+iRobot2	1472209329169	i	MotionAutomaton : Stage transition to TURN
+iRobot2	1472209329199	i	POSITION : iRobot2 152 1483 0 -281.725
+iRobot2	1472209329229	e	MotionAutomaton : Stage is: TURN
+iRobot2	1472209329229	i	MotionAutomaton : Stage transition to GOAL
+iRobot2	1472209329274	i	POSITION : iRobot2 152 1484 0 -277.975
+iRobot2	1472209329289	e	MotionAutomaton : Stage is: GOAL
+iRobot2	1472209329289	i	MotionAutomaton : At goal, done flag set!
+iRobot2	1472209329289	i	MotionAutomaton : Straight at velocity 0
+iRobot2	1472209329289	i	MotionAutomaton : Stage transition to GOAL
+iRobot2	1472209329349	i	POSITION : iRobot2 154 1486 0 -277.975
+iRobot2	1472209329424	i	POSITION : iRobot2 155 1485 0 -277.975
+iRobot2	1472209329449	i	ReachAvoid :  go to called to: midpoint: 3517, 2534, 0. index 0
+iRobot2	1472209329469	e	MotionAutomaton : Stage is: INIT
+iRobot2	1472209329469	i	MotionAutomaton : Stage transition to TURN
+iRobot2	1472209329499	i	POSITION : iRobot2 154 1485 0 -277.975
+iRobot2	1472209329529	e	MotionAutomaton : Stage is: TURN
+iRobot2	1472209329574	i	POSITION : iRobot2 156 1485 0 -281.725
+iRobot2	1472209329649	i	POSITION : iRobot2 156 1485 0 -285.475
+iRobot2	1472209329724	i	POSITION : iRobot2 153 1484 0 -289.225
+iRobot2	1472209329799	i	POSITION : iRobot2 152 1484 0 -292.975
+iRobot2	1472209329874	i	POSITION : iRobot2 150 1485 0 -296.725
+iRobot2	1472209329949	i	POSITION : iRobot2 152 1488 0 -300.475
+iRobot2	1472209330024	i	POSITION : iRobot2 152 1486 0 -304.225
+iRobot2	1472209330099	i	POSITION : iRobot2 149 1487 0 -307.975
+iRobot2	1472209330174	i	POSITION : iRobot2 150 1489 0 -311.725
+iRobot2	1472209330249	i	POSITION : iRobot2 152 1487 0 -315.475
+iRobot2	1472209330324	i	POSITION : iRobot2 154 1489 0 -319.225
+iRobot2	1472209330399	i	POSITION : iRobot2 155 1486 0 -322.675
+iRobot2	1472209330474	i	POSITION : iRobot2 155 1488 0 -325.90000000000003
+iRobot2	1472209330549	i	POSITION : iRobot2 155 1485 0 -328.90000000000003
+iRobot2	1472209330624	i	POSITION : iRobot2 157 1485 0 -331.675
+iRobot2	1472209330699	i	POSITION : iRobot2 156 1488 0 -334.225
+iRobot2	1472209330774	i	POSITION : iRobot2 159 1489 0 -336.55
+iRobot2	1472209330849	i	POSITION : iRobot2 159 1487 0 -338.725
+iRobot2	1472209330924	i	POSITION : iRobot2 159 1487 0 -340.75
+iRobot2	1472209330969	i	MotionAutomaton : Turn stage: within angle bounds!
+iRobot2	1472209330969	i	MotionAutomaton : Stage transition to STRAIGHT
+iRobot2	1472209330999	i	POSITION : iRobot2 159 1490 0 -342.775
+iRobot2	1472209331029	e	MotionAutomaton : Stage is: STRAIGHT
+iRobot2	1472209331029	i	MotionAutomaton : Straight at velocity 250
+iRobot2	1472209331074	i	POSITION : iRobot2 180 1494 0 -342.775
+iRobot2	1472209331149	i	POSITION : iRobot2 197 1502 0 -342.775
+iRobot2	1472209331224	i	POSITION : iRobot2 218 1505 0 -342.775
+iRobot2	1472209331299	i	POSITION : iRobot2 235 1508 0 -342.775
+iRobot2	1472209331374	i	POSITION : iRobot2 256 1511 0 -342.775
+iRobot2	1472209331449	i	POSITION : iRobot2 274 1519 0 -342.775
+iRobot2	1472209331524	i	POSITION : iRobot2 295 1525 0 -342.775
+iRobot2	1472209331599	i	POSITION : iRobot2 313 1529 0 -342.775
+iRobot2	1472209331674	i	POSITION : iRobot2 333 1533 0 -342.775
+iRobot2	1472209331749	i	POSITION : iRobot2 349 1538 0 -342.775
+iRobot2	1472209331824	i	POSITION : iRobot2 366 1541 0 -342.775
+iRobot2	1472209331899	i	POSITION : iRobot2 381 1548 0 -342.775
+iRobot2	1472209331974	i	POSITION : iRobot2 401 1552 0 -342.775
+iRobot2	1472209332049	i	POSITION : iRobot2 415 1559 0 -342.775
+iRobot2	1472209332124	i	POSITION : iRobot2 430 1563 0 -342.775
+iRobot2	1472209332199	i	POSITION : iRobot2 444 1568 0 -342.775
+iRobot2	1472209332274	i	POSITION : iRobot2 465 1574 0 -342.775
+iRobot2	1472209332349	i	POSITION : iRobot2 485 1581 0 -342.775
+iRobot2	1472209332424	i	POSITION : iRobot2 502 1588 0 -342.775
+iRobot2	1472209332499	i	POSITION : iRobot2 520 1597 0 -342.775
+iRobot2	1472209332574	i	POSITION : iRobot2 537 1605 0 -342.775
+iRobot2	1472209332649	i	POSITION : iRobot2 552 1611 0 -342.775
+iRobot2	1472209332724	i	POSITION : iRobot2 566 1616 0 -342.775
+iRobot2	1472209332799	i	POSITION : iRobot2 581 1620 0 -342.775
+iRobot2	1472209332874	i	POSITION : iRobot2 595 1629 0 -342.775
+iRobot2	1472209332949	i	POSITION : iRobot2 613 1637 0 -342.775
+iRobot2	1472209333024	i	POSITION : iRobot2 628 1641 0 -342.775
+iRobot2	1472209333099	i	POSITION : iRobot2 649 1649 0 -342.775
+iRobot2	1472209333174	i	POSITION : iRobot2 663 1655 0 -342.775
+iRobot2	1472209333249	i	POSITION : iRobot2 684 1660 0 -342.775
+iRobot2	1472209333324	i	POSITION : iRobot2 704 1666 0 -342.775
+iRobot2	1472209333399	i	POSITION : iRobot2 718 1675 0 -342.775
+iRobot2	1472209333466	d	SmartCommsHandler : Received data message: M|7197|quadcopter1|ALL|22|C`|&
+iRobot2	1472209333466	d	SmartCommsHandler : Sending ACK: M|7197|iRobot2|quadcopter1|0|ACK`|&
+iRobot2	1472209333474	i	POSITION : iRobot2 739 1677 0 -342.775
+iRobot2	1472209333549	i	POSITION : iRobot2 755 1684 0 -342.775
+iRobot2	1472209333549	i	DoReachAvoid : 3100 800
+iRobot2	1472209333624	i	POSITION : iRobot2 771 1687 0 -342.775
+iRobot2	1472209333649	i	ReachAvoid : RRT has found a solution
+iRobot2	1472209333699	i	POSITION : iRobot2 789 1691 0 -342.775
+iRobot2	1472209333749	i	ReachAvoid :  go to called to: midpoint: 771, 1687, 0. index 0
+iRobot2	1472209333774	i	POSITION : iRobot2 809 1700 0 -342.775
+iRobot2	1472209333789	e	MotionAutomaton : Stage is: INIT
+iRobot2	1472209333789	i	MotionAutomaton : Stage transition to TURN
+iRobot2	1472209333849	e	MotionAutomaton : Stage is: TURN
+iRobot2	1472209333849	i	MotionAutomaton : Stage transition to GOAL
+iRobot2	1472209333849	i	POSITION : iRobot2 806 1700 0 -346.525
+iRobot2	1472209333909	e	MotionAutomaton : Stage is: GOAL
+iRobot2	1472209333909	i	MotionAutomaton : At goal, done flag set!
+iRobot2	1472209333909	i	MotionAutomaton : Straight at velocity 0
+iRobot2	1472209333909	i	MotionAutomaton : Stage transition to GOAL
+iRobot2	1472209333924	i	POSITION : iRobot2 805 1701 0 -346.525
+iRobot2	1472209333999	i	POSITION : iRobot2 803 1700 0 -346.525
+iRobot2	1472209334049	i	ReachAvoid :  go to called to: midpoint: 3100, 800, 0. index 0
+iRobot2	1472209334074	i	POSITION : iRobot2 806 1698 0 -346.525
+iRobot2	1472209334089	e	MotionAutomaton : Stage is: INIT
+iRobot2	1472209334089	i	MotionAutomaton : Stage transition to TURN
+iRobot2	1472209334149	e	MotionAutomaton : Stage is: TURN
+iRobot2	1472209334149	i	POSITION : iRobot2 806 1701 0 -350.275
+iRobot2	1472209334224	i	POSITION : iRobot2 809 1703 0 -354.025
+iRobot2	1472209334299	i	POSITION : iRobot2 811 1701 0 -357.775
+iRobot2	1472209334374	i	POSITION : iRobot2 809 1700 0 -361.22499999999997
+iRobot2	1472209334449	i	POSITION : iRobot2 810 1698 0 -364.37499999999994
+iRobot2	1472209334524	i	POSITION : iRobot2 812 1696 0 -367.29999999999995
+iRobot2	1472209334599	i	POSITION : iRobot2 815 1694 0 -369.99999999999994
+iRobot2	1472209334674	i	POSITION : iRobot2 816 1694 0 -372.54999999999995
+iRobot2	1472209334749	i	POSITION : iRobot2 818 1696 0 -374.87499999999994
+iRobot2	1472209334824	i	POSITION : iRobot2 818 1697 0 -377.04999999999995
+iRobot2	1472209334899	i	POSITION : iRobot2 820 1697 0 -378.99999999999994
+iRobot2	1472209334929	i	MotionAutomaton : Turn stage: within angle bounds!
+iRobot2	1472209334929	i	MotionAutomaton : Stage transition to STRAIGHT
+iRobot2	1472209334974	i	POSITION : iRobot2 820 1698 0 -380.94999999999993
+iRobot2	1472209334989	e	MotionAutomaton : Stage is: STRAIGHT
+iRobot2	1472209334989	i	MotionAutomaton : Straight at velocity 250
+iRobot2	1472209335049	i	POSITION : iRobot2 837 1689 0 -380.94999999999993
+iRobot2	1472209335124	i	POSITION : iRobot2 851 1680 0 -380.94999999999993
+iRobot2	1472209335199	i	POSITION : iRobot2 870 1676 0 -380.94999999999993
+iRobot2	1472209335274	i	POSITION : iRobot2 885 1670 0 -380.94999999999993
+iRobot2	1472209335349	i	POSITION : iRobot2 905 1665 0 -380.94999999999993
+iRobot2	1472209335424	i	POSITION : iRobot2 919 1660 0 -380.94999999999993
+iRobot2	1472209335499	i	POSITION : iRobot2 939 1652 0 -380.94999999999993
+iRobot2	1472209335574	i	POSITION : iRobot2 955 1648 0 -380.94999999999993
+iRobot2	1472209335649	i	POSITION : iRobot2 969 1646 0 -380.94999999999993
+iRobot2	1472209335724	i	POSITION : iRobot2 987 1641 0 -380.94999999999993
+iRobot2	1472209335799	i	POSITION : iRobot2 1007 1636 0 -380.94999999999993
+iRobot2	1472209335874	i	POSITION : iRobot2 1021 1630 0 -380.94999999999993
+iRobot2	1472209335949	i	POSITION : iRobot2 1040 1625 0 -380.94999999999993
+iRobot2	1472209336024	i	POSITION : iRobot2 1058 1622 0 -380.94999999999993
+iRobot2	1472209336099	i	POSITION : iRobot2 1073 1616 0 -380.94999999999993
+iRobot2	1472209336174	i	POSITION : iRobot2 1086 1606 0 -380.94999999999993
+iRobot2	1472209336249	i	POSITION : iRobot2 1104 1600 0 -380.94999999999993
+iRobot2	1472209336324	i	POSITION : iRobot2 1124 1592 0 -380.94999999999993
+iRobot2	1472209336399	i	POSITION : iRobot2 1144 1583 0 -380.94999999999993
+iRobot2	1472209336474	i	POSITION : iRobot2 1159 1579 0 -380.94999999999993
+iRobot2	1472209336549	i	POSITION : iRobot2 1178 1573 0 -380.94999999999993
+iRobot2	1472209336624	i	POSITION : iRobot2 1196 1563 0 -380.94999999999993
+iRobot2	1472209336699	i	POSITION : iRobot2 1215 1555 0 -380.94999999999993
+iRobot2	1472209336774	i	POSITION : iRobot2 1234 1545 0 -380.94999999999993
+iRobot2	1472209336849	i	POSITION : iRobot2 1248 1539 0 -380.94999999999993
+iRobot2	1472209336924	i	POSITION : iRobot2 1268 1533 0 -380.94999999999993
+iRobot2	1472209336999	i	POSITION : iRobot2 1289 1525 0 -380.94999999999993
+iRobot2	1472209337074	i	POSITION : iRobot2 1302 1522 0 -380.94999999999993
+iRobot2	1472209337149	i	POSITION : iRobot2 1321 1516 0 -380.94999999999993
+iRobot2	1472209337224	i	POSITION : iRobot2 1337 1507 0 -380.94999999999993
+iRobot2	1472209337299	i	POSITION : iRobot2 1354 1502 0 -380.94999999999993
+iRobot2	1472209337374	i	POSITION : iRobot2 1375 1496 0 -380.94999999999993
+iRobot2	1472209337449	i	POSITION : iRobot2 1390 1488 0 -380.94999999999993
+iRobot2	1472209337524	i	POSITION : iRobot2 1404 1478 0 -380.94999999999993
+iRobot2	1472209337599	i	POSITION : iRobot2 1425 1472 0 -380.94999999999993
+iRobot2	1472209337674	i	POSITION : iRobot2 1445 1465 0 -380.94999999999993
+iRobot2	1472209337749	i	POSITION : iRobot2 1460 1459 0 -380.94999999999993
+iRobot2	1472209337824	i	POSITION : iRobot2 1481 1450 0 -380.94999999999993
+iRobot2	1472209337899	i	POSITION : iRobot2 1500 1444 0 -380.94999999999993
+iRobot2	1472209337974	i	POSITION : iRobot2 1514 1441 0 -380.94999999999993
+iRobot2	1472209338049	i	POSITION : iRobot2 1534 1436 0 -380.94999999999993
+iRobot2	1472209338124	i	POSITION : iRobot2 1550 1428 0 -380.94999999999993
+iRobot2	1472209338199	i	POSITION : iRobot2 1567 1420 0 -380.94999999999993
+iRobot2	1472209338274	i	POSITION : iRobot2 1583 1414 0 -380.94999999999993
+iRobot2	1472209338349	i	POSITION : iRobot2 1597 1407 0 -380.94999999999993
+iRobot2	1472209338424	i	POSITION : iRobot2 1615 1400 0 -380.94999999999993
+iRobot2	1472209338499	i	POSITION : iRobot2 1632 1396 0 -380.94999999999993
+iRobot2	1472209338574	i	POSITION : iRobot2 1649 1389 0 -380.94999999999993
+iRobot2	1472209338649	i	POSITION : iRobot2 1662 1383 0 -380.94999999999993
+iRobot2	1472209338724	i	POSITION : iRobot2 1682 1374 0 -380.94999999999993
+iRobot2	1472209338799	i	POSITION : iRobot2 1698 1370 0 -380.94999999999993
+iRobot2	1472209338874	i	POSITION : iRobot2 1715 1362 0 -380.94999999999993
+iRobot2	1472209338949	i	POSITION : iRobot2 1731 1358 0 -380.94999999999993
+iRobot2	1472209339024	i	POSITION : iRobot2 1749 1353 0 -380.94999999999993
+iRobot2	1472209339099	i	POSITION : iRobot2 1768 1343 0 -380.94999999999993
+iRobot2	1472209339174	i	POSITION : iRobot2 1786 1334 0 -380.94999999999993
+iRobot2	1472209339249	i	POSITION : iRobot2 1804 1325 0 -380.94999999999993
+iRobot2	1472209339324	i	POSITION : iRobot2 1824 1322 0 -380.94999999999993
+iRobot2	1472209339399	i	POSITION : iRobot2 1843 1315 0 -380.94999999999993
+iRobot2	1472209339474	i	POSITION : iRobot2 1860 1305 0 -380.94999999999993
+iRobot2	1472209339549	i	POSITION : iRobot2 1875 1300 0 -380.94999999999993
+iRobot2	1472209339624	i	POSITION : iRobot2 1891 1294 0 -380.94999999999993
+iRobot2	1472209339699	i	POSITION : iRobot2 1910 1286 0 -380.94999999999993
+iRobot2	1472209339774	i	POSITION : iRobot2 1929 1281 0 -380.94999999999993
+iRobot2	1472209339849	i	POSITION : iRobot2 1946 1272 0 -380.94999999999993
+iRobot2	1472209339924	i	POSITION : iRobot2 1960 1269 0 -380.94999999999993
+iRobot2	1472209339999	i	POSITION : iRobot2 1980 1259 0 -380.94999999999993
+iRobot2	1472209340074	i	POSITION : iRobot2 2000 1254 0 -380.94999999999993
+iRobot2	1472209340149	i	POSITION : iRobot2 2018 1249 0 -380.94999999999993
+iRobot2	1472209340224	i	POSITION : iRobot2 2031 1245 0 -380.94999999999993
+iRobot2	1472209340299	i	POSITION : iRobot2 2051 1241 0 -380.94999999999993
+iRobot2	1472209340374	i	POSITION : iRobot2 2066 1238 0 -380.94999999999993
+iRobot2	1472209340449	i	POSITION : iRobot2 2080 1233 0 -380.94999999999993
+iRobot2	1472209340449	i	MotionAutomaton : Stage transition to SMALLTURN
+iRobot2	1472209340469	d	SmartCommsHandler : Received data message: M|7198|quadcopter1|ALL|22|D`|&
+iRobot2	1472209340469	d	SmartCommsHandler : Sending ACK: M|7198|iRobot2|quadcopter1|0|ACK`|&
+iRobot2	1472209340524	i	POSITION : iRobot2 2099 1228 0 -380.94999999999993
+iRobot2	1472209340599	i	POSITION : iRobot2 2113 1222 0 -380.94999999999993
+
